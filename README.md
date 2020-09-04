@@ -1,6 +1,6 @@
-<h3 align="center">F36</h3>
+<h3 align="left">HI I AM F36</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=f36" alt="f36" /> </p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=F36&show_icons=true)  
 
 - 🔭 I’m currently working on [TorrentMir](https://t.me/joinchat/RwLFhVfkLmFcCADT00UAmQ)
 
