@@ -1,6 +1,6 @@
 <h3 align="left">HI I AM F36</h3>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=F36&show_icons=true)  
+![Profile views](https://gpvc.arturio.dev/F36)
 
 - 🔭 I’m currently working on [TorrentMir](https://t.me/joinchat/RwLFhVfkLmFcCADT00UAmQ)
 
