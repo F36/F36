@@ -1,12 +1,11 @@
-<h3 align="left">HI I AM F36</h3>
+<h3 align="left">HI I AM F36</h3> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 ![Profile views](https://gpvc.arturio.dev/F36)
 
-- 🔭 I’m currently working on [TorrentMir](https://t.me/joinchat/RwLFhVfkLmFcCADT00UAmQ)
 
-- 🌱 I’m currently learning **Everything**
+Status | Langs
+ --- | ---
+![F36's github stats](https://github-readme-stats.vercel.app/api?username=f36&theme=dark&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f36&langs_count=8&layout=compact)](https://github.com/f36/)
 
-- 💬 Ask me about **Everything**
-
-- 📫 How to reach me **I mean Why**
 
