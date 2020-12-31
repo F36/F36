@@ -6,6 +6,6 @@
 
 Status | Langs
  --- | ---
-![F36's github stats](https://github-readme-stats.vercel.app/api?username=f36&theme=dark&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f36&langs_count=8)](https://github.com/f36/)
+![F36's github stats](https://github-readme-stats.vercel.app/api?username=f36&theme=dark&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=f36&langs_count=8&layout=compact)](https://github.com/f36/)
 
 
