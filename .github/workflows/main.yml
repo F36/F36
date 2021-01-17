@@ -22,7 +22,7 @@ jobs:
         python -m pip install requests
     - name: Something nice
       run: |
-        python update_fav.py
+        python anilist.py
     - name: Commit
       run: |
         git config --global user.email "f36@users.noreply.github.com"
